@@ -1,3 +1,3 @@
 hantangTown
 ===========
-open=1
+open=0
